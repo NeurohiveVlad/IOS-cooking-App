@@ -12,12 +12,13 @@ Technical review about work tasks
 - By tapping on a cell, a transition to a detailed view with detailed information is carried out! On the detailed view screen, implement a pinch zoom! Also inside implement an icon, by clicking on which the recipe is saved to favorite recipes ( 2nd screen )
 - Implement a search by any criteria, choose convenient for yourself.
 - Implement a filter for the list, a few items will be enough.
-- Favorite recipes:
+
+Favorite recipes:
 - Display a list of recipes that have been added to favorites.
 - By swiping or by long pressing on an item from the list - implement removing it from your favorites!
 - By clicking on an element, you can go to a detailed view of the recipe.
 
-- Detail screen:
+Detail screen:
 - Detailed recipe information
 - Implement ingredients using UICollectionView, literally photo + name, that's enough.
 
