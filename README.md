@@ -33,3 +33,5 @@ Requirements:
 - Minimum version of iOS 13.
 - To work with the network, use either URLSession or Alamofire, it's already how and what you like.
 - Design at your discretion, the main thing is that the collections should be on the detailed one, and the table on the main one!
+
+test text
